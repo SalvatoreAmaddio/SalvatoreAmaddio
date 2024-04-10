@@ -23,13 +23,17 @@ portfolio: https://salvatoreamaddio.co.uk/ 👈
 ## Databases:
 <div style='display:flex'>
 <img src="https://salvatoreamaddio.co.uk/img/sqlite.png" alt="SQLite" width="100" height="100">
+<img src='https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png' width="10">
 <img src="https://salvatoreamaddio.co.uk/img/mysql.svg" alt="mySQL" width="100" height="100">
+<img src='https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png' width="10">
 <img src="https://salvatoreamaddio.co.uk/img/msaccess.png" alt="msAccess" width="100" height="100">
 </div>
 
 ## Technologies:
 <div style='display:flex'>
 <img src="https://salvatoreamaddio.co.uk/img/wpf.png" alt="WPF" width="100" height="100">
+<img src='https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png' width="10">
 <img src="https://salvatoreamaddio.co.uk/img/maui.png" alt="MAUI" width="100" height="100">
+<img src='https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png' width="10">
 <img src="https://salvatoreamaddio.co.uk/img/phpmyadmin.png" alt="PHPMyAdmin" width="100" height="100">
 </div>
