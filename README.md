@@ -15,6 +15,11 @@ portfolio: https://salvatoreamaddio.co.uk/ 👈
 <img src="https://salvatoreamaddio.co.uk/img/python.png" alt="python" width="100" height="100">
 </div>
 
+## Databases:
+<img src="https://salvatoreamaddio.co.uk/img/wpf.png" alt="WPF" width="100" height="100">
+<img src="https://salvatoreamaddio.co.uk/img/maui.png" alt="MAUI" width="100" height="100">
+<img src="https://salvatoreamaddio.co.uk/img/phpmyadmin.png" alt="PHPMyAdmin" width="100" height="100">
+
 ## Technologies:
 <img src="https://salvatoreamaddio.co.uk/img/wpf.png" alt="WPF" width="100" height="100">
 <img src="https://salvatoreamaddio.co.uk/img/maui.png" alt="MAUI" width="100" height="100">
