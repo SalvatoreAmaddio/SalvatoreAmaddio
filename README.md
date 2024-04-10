@@ -18,7 +18,4 @@ portfolio: https://salvatoreamaddio.co.uk/ 👈
 ## Technologies:
 <img src="https://salvatoreamaddio.co.uk/img/wpf.png" alt="WPF" width="100" height="100">
 <img src="https://salvatoreamaddio.co.uk/img/maui.png" alt="MAUI" width="100" height="100">
-<img src="https://salvatoreamaddio.co.uk/img/php.png" alt="PHP" width="100" height="100">
-<img src="https://salvatoreamaddio.co.uk/img/java.png" alt="Java" width="100" height="100">
-<img src="https://salvatoreamaddio.co.uk/img/vb.png" alt="VB" width="100" height="100">
-<img src="https://salvatoreamaddio.co.uk/img/python.png" alt="python" width="100" height="100">
+<img src="https://salvatoreamaddio.co.uk/img/phpmyadmin.png" alt="PHPMyAdmin" width="100" height="100">
