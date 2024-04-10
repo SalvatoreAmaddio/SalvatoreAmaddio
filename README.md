@@ -4,7 +4,7 @@
 
 portfolio: https://salvatoreamaddio.co.uk/ 👈
 
-## Programming Languages:<img src="https://salvatoreamaddio.co.uk/img/coding.png" alt="C#" width="100" height="100">
+## Programming Languages:<img src="https://salvatoreamaddio.co.uk/img/coding.png" alt="C#" width="10" height="10">
 
 <div style='display:flex'>
 <img src="https://salvatoreamaddio.co.uk/img/csharp.png" alt="C#" width="100" height="100">
