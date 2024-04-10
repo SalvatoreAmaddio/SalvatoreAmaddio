@@ -1,4 +1,4 @@
-### Ciao! 👋
+# Ciao! 👋
 
 # Software Developer
 
