@@ -41,3 +41,7 @@ portfolio: https://salvatoreamaddio.co.uk/ 👈
 <img src='https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png' width="10">
 <img src="https://salvatoreamaddio.co.uk/img/phpmyadmin.png" alt="PHPMyAdmin" width="100" height="100">
 </div>
+
+## IDE:
+<img src="https://salvatoreamaddio.co.uk/img/wpf.png" alt="VisualStudio" width="100" height="100">
+<img src="https://salvatoreamaddio.co.uk/img/wpf.png" alt="VSCode" width="100" height="100">
