@@ -43,5 +43,7 @@ portfolio: https://salvatoreamaddio.co.uk/ 👈
 </div>
 
 ## IDE:
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="VisualStudio" width="100" height="100">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCOTIV4Tb4h16YNEwanHL3esW2nwwumHYqAFgcVaMUOw&s" alt="VSCode" width="100" height="100">
+<div style='display:flex'>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="VisualStudio" width="100" height="100">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCOTIV4Tb4h16YNEwanHL3esW2nwwumHYqAFgcVaMUOw&s" alt="VSCode" width="100" height="100">
+</div>
