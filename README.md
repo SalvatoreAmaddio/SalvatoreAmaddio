@@ -12,7 +12,7 @@ portfolio: https://salvatoreamaddio.co.uk/ 👈
 <div>
   <img src="https://raw.githubusercontent.com/SalvatoreAmaddio/DesktopBusinessAppSharpBuilder/master/logo.png" width="300" height="300" />
 </div>
-https://github.com/SalvatoreAmaddio/DesktopBusinessAppSharpBuilder 👈
+ [Check it out](https://github.com/SalvatoreAmaddio/DesktopBusinessAppSharpBuilder)👈
 
 ## Programming Languages:
 
