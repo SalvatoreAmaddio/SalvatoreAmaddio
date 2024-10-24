@@ -33,11 +33,11 @@ With an **authentic personality**, I am purposeful, **creative**, and happy to a
 
 ## Databases:
 <div style='display:flex'>
-<img src="https://salvatoreamaddio.co.uk/img/sqlite.png" alt="SQLite" width="100" height="100">
+<img src="https://salvatoreamaddio.co.uk/assets/images/databases/sqlite.png" alt="SQLite" width="100" height="100">
 <img src='https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png' width="10">
-<img src="https://salvatoreamaddio.co.uk/img/mysql.svg" alt="mySQL" width="100" height="100">
+<img src="https://salvatoreamaddio.co.uk/assets/images/databases/mysql.png" alt="mySQL" width="100" height="100">
 <img src='https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png' width="10">
-<img src="https://salvatoreamaddio.co.uk/img/msaccess.png" alt="msAccess" width="100" height="100">
+<img src="https://salvatoreamaddio.co.uk/assets/images/databases/msaccess.png" alt="msAccess" width="100" height="100">
 </div>
 
 ## Technologies:
