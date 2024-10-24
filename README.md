@@ -18,7 +18,7 @@ With an **authentic personality**, I am purposeful, **creative**, and happy to a
 ## Programming Languages:
 
 <div style='display:flex'>
-<img src="https://salvatoreamaddio.co.uk/img/csharp.png" alt="C#" width="100" height="100">
+<img src="https://salvatoreamaddio.co.uk/assets/images/programmingLanguages/csharp.png" alt="C#" width="100" height="100">
     <img src='https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png' width="10">
 <img src="https://salvatoreamaddio.co.uk/img/js.png" alt="JavaScript" width="100" height="100">
     <img src='https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png' width="10">
