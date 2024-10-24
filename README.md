@@ -42,11 +42,11 @@ With an **authentic personality**, I am purposeful, **creative**, and happy to a
 
 ## Technologies:
 <div style='display:flex'>
-<img src="https://salvatoreamaddio.co.uk/img/wpf.png" alt="WPF" width="100" height="100">
+<img src="https://salvatoreamaddio.co.uk/assets/images/technologies/wpf.png" alt="WPF" width="100" height="100">
 <img src='https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png' width="10">
-<img src="https://salvatoreamaddio.co.uk/img/maui.png" alt="MAUI" width="100" height="100">
+<img src="https://salvatoreamaddio.co.uk/assets/images/technologies/maui.png" alt="MAUI" width="100" height="100">
 <img src='https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png' width="10">
-<img src="https://salvatoreamaddio.co.uk/img/phpmyadmin.png" alt="PHPMyAdmin" width="100" height="100">
+<img src="https://salvatoreamaddio.co.uk/assets/images/technologies/phpmyadmin.png" alt="PHPMyAdmin" width="100" height="100">
 </div>
 
 ## IDE:
