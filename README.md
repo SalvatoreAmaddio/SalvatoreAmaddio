@@ -6,15 +6,6 @@ Driven by a passion for complex problems, I am **passionate** about technology. 
 
 With an **authentic personality**, I am purposeful, **creative**, and happy to address challenges. My goal is to keep learning and proving myself within the working-field. I am currently looking for an opportunity to gain further experience and expand my existing tech-skills and knowledge.
 
-[portfolio](https://salvatoreamaddio.co.uk/)👈
-
-## I've made a C# framework!
-<div>
-  <img src="https://raw.githubusercontent.com/SalvatoreAmaddio/DesktopBusinessAppSharpBuilder/master/logo.png" width="300" height="300" />
-</div>
-
- [Check it out](https://github.com/SalvatoreAmaddio/DesktopBusinessAppSharpBuilder)👈
-
 ## Programming Languages:
 
 <div style='display:flex'>
